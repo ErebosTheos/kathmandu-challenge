@@ -2,6 +2,8 @@ node_modules/
 .DS_Store
 *.blend1
 .vite/
+/GAME_SPEC.md
+/HANDOVER.md
 dist/
 logs/*
 !logs/review-notes.md
