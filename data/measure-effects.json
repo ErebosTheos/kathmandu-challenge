@@ -1,0 +1,352 @@
+{
+ "seeds": [
+  235,
+  11,
+  42,
+  97,
+  503
+ ],
+ "minutes": 10,
+ "conditions": {
+  "morning": {
+   "plans": {
+    "now": {
+     "delay": 3149.3907499526003,
+     "saved": 0,
+     "savedMin": 0,
+     "savedMax": 0,
+     "percent": 0,
+     "people": 8579.219999999992,
+     "unsafe": 2.4
+    },
+    "short": {
+     "delay": 3633.17342926788,
+     "saved": -483.78267931527887,
+     "savedMin": -1046.6204756480834,
+     "savedMax": 246.76327317291907,
+     "percent": -16.653482173723212,
+     "people": 7939.919999999993,
+     "unsafe": 0
+    },
+    "long": {
+     "delay": 707.980512351501,
+     "saved": 2441.4102376011,
+     "savedMin": 1736.0734718172312,
+     "savedMax": 3936.321491793791,
+     "percent": 76.83404960369032,
+     "people": 11107.199999999993,
+     "unsafe": 0
+    }
+   },
+   "measures": {
+    "Adaptive signal timings": {
+     "saved": 60.330291977785144,
+     "min": -214.12903472319067,
+     "max": 542.2189152934379
+    },
+    "Lane discipline, merges upstream": {
+     "saved": -322.454805830608,
+     "min": -551.4122188933093,
+     "max": -121.42182174477784
+    },
+    "Stops moved 60 m back into off-lane bays": {
+     "saved": 132.8990197639917,
+     "min": -315.07011415588704,
+     "max": 644.4712814483382
+    },
+    "Guardrails": {
+     "saved": 31.779597823136648,
+     "min": -11.321231105936022,
+     "max": 87.95884692170785
+    },
+    "Marked crossings with walk phase": {
+     "saved": -646.1474619248942,
+     "min": -1576.0902583460365,
+     "max": 272.6215271347246
+    },
+    "Tinkune–Jadibuti tunnel": {
+     "saved": 2022.6819153813944,
+     "min": 1249.1279286441068,
+     "max": 3507.104074115956
+    },
+    "Pedestrian skybridges": {
+     "saved": 572.7220406740835,
+     "min": -15.462834243219277,
+     "max": 1113.283842384344
+    }
+   }
+  },
+  "busBunching": {
+   "plans": {
+    "now": {
+     "delay": 4554.431195193843,
+     "saved": 0,
+     "savedMin": 0,
+     "savedMax": 0,
+     "percent": 0,
+     "people": 7760.279999999993,
+     "unsafe": 1.4
+    },
+    "short": {
+     "delay": 4873.4978709798725,
+     "saved": -319.0666757860299,
+     "savedMin": -795.6143909030052,
+     "savedMax": 10.361137996877005,
+     "percent": -7.0602204520784095,
+     "people": 7483.979999999993,
+     "unsafe": 0
+    },
+    "long": {
+     "delay": 1126.5840214414923,
+     "saved": 3427.8471737523514,
+     "savedMin": 3070.0025661724794,
+     "savedMax": 3803.7912840013337,
+     "percent": 75.37066351143395,
+     "people": 11720.639999999996,
+     "unsafe": 0
+    }
+   },
+   "measures": {
+    "Adaptive signal timings": {
+     "saved": -130.81632042960246,
+     "min": -356.70655988482395,
+     "max": 22.06645496330748
+    },
+    "Lane discipline, merges upstream": {
+     "saved": -142.79779009463036,
+     "min": -380.0190921750391,
+     "max": 109.72211677173982
+    },
+    "Stops moved 60 m back into off-lane bays": {
+     "saved": 168.8829571014383,
+     "min": -94.34262760031652,
+     "max": 618.442982199268
+    },
+    "Guardrails": {
+     "saved": 18.36510018218987,
+     "min": -0.05416666666496894,
+     "max": 77.61643365989539
+    },
+    "Marked crossings with walk phase": {
+     "saved": -345.5347566149494,
+     "min": -1145.2403438541387,
+     "max": -86.54244421566273
+    },
+    "Tinkune–Jadibuti tunnel": {
+     "saved": 3045.659914243757,
+     "min": 2675.8401768989415,
+     "max": 3628.8619247281667
+    },
+    "Pedestrian skybridges": {
+     "saved": 145.77770252231912,
+     "min": 44.57790705348543,
+     "max": 258.0877551365538
+    }
+   }
+  },
+  "rain": {
+   "plans": {
+    "now": {
+     "delay": 3941.9919818119297,
+     "saved": 0,
+     "savedMin": 0,
+     "savedMax": 0,
+     "percent": 0,
+     "people": 7453.859999999995,
+     "unsafe": 2
+    },
+    "short": {
+     "delay": 4369.779659340346,
+     "saved": -427.78767752841685,
+     "savedMin": -926.0896683026881,
+     "savedMax": -200.86321437520473,
+     "percent": -11.314219167094985,
+     "people": 6946.4999999999945,
+     "unsafe": 0
+    },
+    "long": {
+     "delay": 1034.4193790557372,
+     "saved": 2907.5726027561927,
+     "savedMin": 2423.9772890010363,
+     "savedMax": 3363.364994862067,
+     "percent": 73.79190864724909,
+     "people": 10917.539999999994,
+     "unsafe": 0
+    }
+   },
+   "measures": {
+    "Adaptive signal timings": {
+     "saved": -75.8792407264632,
+     "min": -357.9222338116879,
+     "max": 173.30137155163493
+    },
+    "Lane discipline, merges upstream": {
+     "saved": -264.9625391647993,
+     "min": -856.3781740551121,
+     "max": -1.269241753147071
+    },
+    "Stops moved 60 m back into off-lane bays": {
+     "saved": 178.47277418474306,
+     "min": -249.95977981023952,
+     "max": 372.9317879004202
+    },
+    "Guardrails": {
+     "saved": -49.55316672559629,
+     "min": -309.60044278105033,
+     "max": 86.7806162165648
+    },
+    "Marked crossings with walk phase": {
+     "saved": -492.85953035300355,
+     "min": -1030.6249429762493,
+     "max": -273.58701082869857
+    },
+    "Tinkune–Jadibuti tunnel": {
+     "saved": 2333.8586024879687,
+     "min": 1802.8499442103325,
+     "max": 2830.9038962710783
+    },
+    "Pedestrian skybridges": {
+     "saved": 229.64098190566136,
+     "min": 46.573507488892574,
+     "max": 327.84306986156025
+    }
+   }
+  },
+  "dashain": {
+   "plans": {
+    "now": {
+     "delay": 3825.8768481283028,
+     "saved": 0,
+     "savedMin": 0,
+     "savedMax": 0,
+     "percent": 0,
+     "people": 7981.019999999992,
+     "unsafe": 1.4
+    },
+    "short": {
+     "delay": 3942.700493837053,
+     "saved": -116.82364570875106,
+     "savedMin": -617.4755620521642,
+     "savedMax": 462.9809989907858,
+     "percent": -3.770184247491251,
+     "people": 7778.519999999995,
+     "unsafe": 0
+    },
+    "long": {
+     "delay": 877.1824370542452,
+     "saved": 2948.6944110740565,
+     "savedMin": 2234.1310105985362,
+     "savedMax": 4031.3874996595846,
+     "percent": 77.09210699610593,
+     "people": 10989.899999999992,
+     "unsafe": 0
+    }
+   },
+   "measures": {
+    "Adaptive signal timings": {
+     "saved": 29.68771852640348,
+     "min": -326.67251032706736,
+     "max": 384.6529662490452
+    },
+    "Lane discipline, merges upstream": {
+     "saved": -164.2879280875756,
+     "min": -452.7584195497029,
+     "max": 27.353865615718405
+    },
+    "Stops moved 60 m back into off-lane bays": {
+     "saved": 21.08780864008213,
+     "min": -170.26828250142262,
+     "max": 121.41650331401888
+    },
+    "Guardrails": {
+     "saved": -22.91221605748742,
+     "min": -102.00895066205157,
+     "max": 1.5729754564235918
+    },
+    "Marked crossings with walk phase": {
+     "saved": -34.0426943580429,
+     "min": -409.47099342612,
+     "max": 445.0784133662687
+    },
+    "Tinkune–Jadibuti tunnel": {
+     "saved": 2365.2311396263044,
+     "min": 1776.7412395418207,
+     "max": 3555.2542555654913
+    },
+    "Pedestrian skybridges": {
+     "saved": 357.9333119859484,
+     "min": 76.30778342732765,
+     "max": 1086.049925191062
+    }
+   }
+  },
+  "sandbox": {
+   "plans": {
+    "now": {
+     "delay": 323.5983726250999,
+     "saved": 0,
+     "savedMin": 0,
+     "savedMax": 0,
+     "percent": 0,
+     "people": 3147.78,
+     "unsafe": 0
+    },
+    "short": {
+     "delay": 307.7989123572411,
+     "saved": 15.799460267858809,
+     "savedMin": 9.263892927573409,
+     "savedMax": 19.03349287633438,
+     "percent": 4.894298898352239,
+     "people": 3131.94,
+     "unsafe": 0
+    },
+    "long": {
+     "delay": 134.25318248397144,
+     "saved": 189.3451901411285,
+     "savedMin": 162.59666875675816,
+     "savedMax": 237.58943400270866,
+     "percent": 59.767456283493495,
+     "people": 3268.14,
+     "unsafe": 0
+    }
+   },
+   "measures": {
+    "Adaptive signal timings": {
+     "saved": 27.878118908746565,
+     "min": 11.738553329593458,
+     "max": 37.4878026930819
+    },
+    "Lane discipline, merges upstream": {
+     "saved": 1.576529317873468,
+     "min": -23.451156939404257,
+     "max": 28.63074521963665
+    },
+    "Stops moved 60 m back into off-lane bays": {
+     "saved": -1.7069867711067672,
+     "min": -5.643235630737877,
+     "max": 0.33657332001683926
+    },
+    "Guardrails": {
+     "saved": 0,
+     "min": 0,
+     "max": 0
+    },
+    "Marked crossings with walk phase": {
+     "saved": 9.769834860431468,
+     "min": -13.064855065510415,
+     "max": 34.45731152559239
+    },
+    "Tinkune–Jadibuti tunnel": {
+     "saved": 176.70721919379088,
+     "min": 134.94846081978858,
+     "max": 212.8728802824697
+    },
+    "Pedestrian skybridges": {
+     "saved": 33.41988613566268,
+     "min": 15.576125166565589,
+     "max": 55.94797256500186
+    }
+   }
+  }
+ }
+}

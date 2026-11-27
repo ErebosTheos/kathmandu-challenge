@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.blend1
+.vite/
+dist/
+logs/*
+!logs/review-notes.md
+!logs/review-scene-v1.png
+!logs/osm-koteshwor.png
